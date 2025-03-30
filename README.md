@@ -30,8 +30,8 @@ A simple C++ application using SFML to visualize different sorting algorithms.
 5. Exit when done.
 
 ## Screenshot
-![Sorting Visualizer](screenshot.png)  
-(*Replace with an actual image of your application running*)
+![Sorting Visualizer](sorter.png)  
+
 
 ## License
 This project is open-source and available under the MIT License.
